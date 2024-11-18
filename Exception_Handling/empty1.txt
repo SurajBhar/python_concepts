@@ -1,0 +1,2 @@
+"Hi, Welcome to Python Tutorials"
+This is a class about File Handling and Exception Handling.
